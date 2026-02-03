@@ -152,13 +152,12 @@
         </plugins>
     </build>
     <properties>
-        <maven.version>3.9.6</maven.version>
         <maven-plugin-annotations.version>3.11.0</maven-plugin-annotations.version>
         <org.eclipse.equinox.p2.publisher.version>1.9.600</org.eclipse.equinox.p2.publisher.version>
         <sisu-equinox-launching.version>${tycho.version}</sisu-equinox-launching.version>
         <tycho-artifactcomparator.version>${tycho.version}</tycho-artifactcomparator.version>
         <commons-lang3.version>3.14.0</commons-lang3.version>
-        <tycho.version>4.0.13</tycho.version>
+        <tycho.version>4.0.6</tycho.version>
         <junit.version>3.8.1</junit.version>
     </properties>
 </project>
